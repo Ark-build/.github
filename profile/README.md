@@ -31,6 +31,7 @@ We'd like to thank the following open-source projects that we rely on for Ark:
 * IFC.js
 * Ant Design
 * Webpack
+
 If we're using your project but missed mentioning it, please reach out, and we'll gladly add you to the list!
 
 Licensing Information 📄
