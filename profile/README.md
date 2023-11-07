@@ -25,8 +25,10 @@ Visit our website at [ark.build](https://ark.build) for more information.
 ## Acknowledgements 🙏
 We'd like to thank the following open-source projects that we rely on for Ark:
 
+* Hot Chocolate
 * MediatR
 * Fluent Assertions
+* Apollo Client
 * Zustand
 * IFC.js
 * Ant Design
